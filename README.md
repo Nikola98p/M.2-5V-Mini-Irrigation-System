@@ -2,7 +2,8 @@
 
 This repository contains the PCB design files for a mini 5V pump intended for use in a small irrigation system project. The PCB includes provisions for connecting a solar panel, a battery charging circuit, power regulators, a custom-built m.2 connector for connecting the development board, and a manual turn-on button for the pump. Additionally, it features an AM2301 sensor for temperature and humidity monitoring, two LEDs (blue and emerald), USB-C port for charging, and debug pins.
 
-![PCB_Board](https://github.com/Nikola98p/M.2-5V-Mini-Irrigation-System/assets/32436155/8f265290-fc3d-42b9-a66a-8eb464366c3b)
+![Screenshot_6](https://github.com/Nikola98p/M.2-5V-Mini-Irrigation-System/assets/32436155/7eb3eede-4b5f-464a-a011-c6ec05a11dd7)
+
 
 ## Features
 
